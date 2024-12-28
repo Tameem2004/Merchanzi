@@ -102,6 +102,7 @@ export default function Home() {
         color: '#34251F',
       }}
     >
+      
       {/* New Collection Title */}
       <h1
         style={{
@@ -338,8 +339,8 @@ export default function Home() {
           </p>
         </div>
       </div>
-      <div className="relative overflow-hidden w-full">
-        
+
+      <div className="relative overflow-hidden w-full">  
       {/* Animated scrolling container */}
         <div
           className="flex space-x-16 animate-loop-scroll bg-gray-300"

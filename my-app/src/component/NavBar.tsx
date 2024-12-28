@@ -9,7 +9,7 @@ import hero_page_image from '../bg_images/hero_page_product_img.jpg'
 const NavBar: React.FC = () => {
   return (
     <section id="home">
-    <div className="bg-bgImg bg-no-repeat bg-cover bg-bottom h-[900] w-full hero-section">
+    <div className="bg-bgImg bg-no-repeat bg-cover h-[900] w-full hero-section">
       <div className="container mx-auto flex items-top justify-between py-4 px-6 ">
         {/* Logo Section */}
         <div className="items-top">
