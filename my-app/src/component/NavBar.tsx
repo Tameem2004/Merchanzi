@@ -10,7 +10,7 @@ const NavBar: React.FC = () => {
   return (
     <section id="home">
     <div className="bg-bgImg bg-no-repeat bg-cover h-[900] w-full hero-section">
-      <div className="container mx-auto flex items-top h-[900] justify-between py-4 px-6 ">
+      <div className="mx-auto flex items-top h-[900] justify-between py-4 px-6 ">
         {/* Logo Section */}
         <div className="items-top">
           <Image
